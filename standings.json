@@ -1,0 +1,35 @@
+[
+    {
+        "team": {
+            "id": "80dd3807-575a-4f8a-bc18-5f0480f70bd6",
+            "name": "Al-Hilal",
+            "logoName": "shield.fill",
+            "hexColor": "#005CA9"
+        },
+        "points": 65,
+        "played": 23,
+        "rank": 1
+    },
+    {
+        "team": {
+            "id": "13d384dc-9ac4-433a-b517-03f9d982173a",
+            "name": "Al-Nassr",
+            "logoName": "shield.fill",
+            "hexColor": "#F2DD00"
+        },
+        "points": 56,
+        "played": 23,
+        "rank": 2
+    },
+    {
+        "team": {
+            "id": "93bc0a29-6dbd-42a0-a3db-75f976abb671",
+            "name": "Al-Ahli",
+            "logoName": "shield.fill",
+            "hexColor": "#155232"
+        },
+        "points": 47,
+        "played": 23,
+        "rank": 3
+    }
+]
