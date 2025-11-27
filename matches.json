@@ -1,24 +1,24 @@
 [
     {
-        "id": "39316034-d708-4057-8d56-2a4b7132228c",
+        "id": "30dedf6a-0195-4c46-a3a6-884067f037f0",
         "homeTeam": {
-            "id": "d61c3563-a7c6-455d-97f0-d32d706971ba",
+            "id": "e9cbebc0-0c59-42f3-88d2-72f45b729ce9",
             "name": "Al-Ahli",
             "logoName": "shield.fill",
             "hexColor": "#155232"
         },
         "awayTeam": {
-            "id": "b4d88bab-8557-426e-b7a1-6f709750e143",
+            "id": "3df51cf7-9a91-4419-ae85-e2df3d015bc1",
             "name": "Al-Ittihad",
             "logoName": "shield.fill",
             "hexColor": "#FFD700"
         },
-        "date": "2025-12-01T01:47:13.472442",
+        "date": "2025-12-01T02:08:36Z",
         "score": null,
         "status": "upcoming",
         "stadium": "King Abdullah Sports City",
         "round": "Round 24",
-        "competition": "roshn",
+        "competition": "Roshn Saudi League",
         "h2h": [],
         "form": [
             "W",

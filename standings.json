@@ -1,7 +1,7 @@
 [
     {
         "team": {
-            "id": "80dd3807-575a-4f8a-bc18-5f0480f70bd6",
+            "id": "0924127e-444d-4e20-a6e9-28218d95d12d",
             "name": "Al-Hilal",
             "logoName": "shield.fill",
             "hexColor": "#005CA9"
@@ -12,7 +12,7 @@
     },
     {
         "team": {
-            "id": "13d384dc-9ac4-433a-b517-03f9d982173a",
+            "id": "b5f52235-6eb0-483c-9ab1-138d8c227875",
             "name": "Al-Nassr",
             "logoName": "shield.fill",
             "hexColor": "#F2DD00"
@@ -23,7 +23,7 @@
     },
     {
         "team": {
-            "id": "93bc0a29-6dbd-42a0-a3db-75f976abb671",
+            "id": "b3a9ad34-073f-4700-989c-059a9b3acb3f",
             "name": "Al-Ahli",
             "logoName": "shield.fill",
             "hexColor": "#155232"
